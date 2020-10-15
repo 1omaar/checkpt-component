@@ -1,0 +1,7 @@
+.adresse-postion {
+    display: flex;
+    justify-content: space-around;
+}
+.myAdresse {
+    font-size: 20px;
+}

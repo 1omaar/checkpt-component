@@ -1,0 +1,11 @@
+.photos {
+    width: 31%;
+    height: 50%;
+    border-radius: 40%;
+}
+.photo-position{
+    display: flex;
+    justify-content: center;
+    padding-top: 3.5%;
+    
+}
